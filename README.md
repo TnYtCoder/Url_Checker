@@ -72,6 +72,8 @@ python3 -m pip install -m requirements.txt
 ```
 python3 check.py
 ```
+## Warning !
+> This Tool Is Made For Research & Education Purpose. If You Use This Tool For Hacking, Data Snatching or Other Illegal Activities I'll Be Not Responsible In Such Cases.
 
 ## Thank You !!
 Thank you for using !
